@@ -1,0 +1,9 @@
+.covid-project{
+  background-color: #737070;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+}
+.covid-project tbody td ,.covid-project tbody th{
+  color: #fff !important;
+}
